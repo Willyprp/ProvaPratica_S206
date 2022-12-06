@@ -1,4 +1,4 @@
-Feature: Testando API Go REST
+Feature: Testando API Go REST e Pokeapi
 
 
 Background: Executa antes de cada teste
